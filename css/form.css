@@ -13,7 +13,7 @@
     font-style: normal;
     font-weight: normal;
 }
-
+/* 
 @font-face {
     font-family: 'NunitoSans';
     src: url('../font/NunitoSans-Variablewght.ttf');
@@ -41,7 +41,7 @@
     src: url('../font/EN.woff2');
     font-style: normal;
     font-weight: normal;
-}
+} */
 
 .quiz-form {
     display: flex;
