@@ -5,18 +5,6 @@
           box-sizing: border-box;
 }
 
-@font-face {
-  font-family: "KudryashevDisplay";
-  src: url("../font/kudryashev-display.ttf");
-  font-style: normal;
-  font-weight: normal;
-}
-@font-face {
-  font-family: "NunitoSans";
-  src: url("../font/NunitoSans-Variablewght.ttf");
-  font-style: normal;
-  font-weight: normal;
-}
 html,
 body {
   overflow-x: hidden;

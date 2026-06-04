@@ -1,15 +1,46 @@
+
+
 @font-face {
-    font-family: 'NunitoSans';
-    src: url('/font/NunitoSans-Variablewght.ttf');
+    font-family: 'KudryashevDisplay';
+    src: url('../font/kudryashev-display.ttf');
     font-style: normal;
     font-weight: normal;
 }
 
 @font-face {
     font-family: 'NunitoSans';
-    src: url('/font/NunitoSans-Variablewght.ttf');
+    src: url('../font/NunitoSans-Variablewght.ttf');
+    font-style: normal;
+    font-weight: normal;
+}
+
+@font-face {
+    font-family: 'NunitoSans';
+    src: url('../font/NunitoSans-Variablewght.ttf');
+    font-style: normal;
+    font-weight: 300;
+}
+
+
+@font-face {
+    font-family: 'NunitoSans';
+    src: url('../font/NunitoSans-Variablewght.ttf');
+    font-style: normal;
+    font-weight: 600;
+}
+
+@font-face {
+    font-family: 'NunitoSans';
+    src: url('../font/NunitoSans-Variablewght.ttf');
     font-style: normal;
     font-weight: 700;
+}
+
+@font-face {
+    font-family: 'english';
+    src: url('../font/EN.woff2');
+    font-style: normal;
+    font-weight: normal;
 }
 
 .quiz-form {
@@ -268,14 +299,16 @@
         width: calc(13 / 375 * 100vw);
         height: calc(13 / 375 * 100vw);
     }
-    .btn-submit{
+
+    .btn-submit {
         font-size: calc(18 / 375 * 100vw);
         padding: calc(9 / 375 * 100vw) calc(65 / 375 * 100vw);
         border-radius: calc(10 / 375 * 100vw);
         max-width: fit-content;
         width: 100%;
     }
-    .btn-submit::after{
+
+    .btn-submit::after {
         border-radius: calc(10 / 375 * 100vw);
     }
 }
