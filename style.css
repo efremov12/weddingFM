@@ -7,37 +7,37 @@
 
 @font-face {
   font-family: "KudryashevDisplay";
-  src: url("/font/kudryashev-display.ttf");
+  src: url("kudryashev-display.ttf");
   font-style: normal;
   font-weight: normal;
 }
 @font-face {
   font-family: "NunitoSans";
-  src: url("/font/NunitoSans-Variablewght.ttf");
+  src: url("NunitoSans-Variablewght.ttf");
   font-style: normal;
   font-weight: normal;
 }
 @font-face {
   font-family: "NunitoSans";
-  src: url("/font/NunitoSans-Variablewght.ttf");
+  src: url("NunitoSans-Variablewght.ttf");
   font-style: normal;
   font-weight: 300;
 }
 @font-face {
   font-family: "NunitoSans";
-  src: url("/font/NunitoSans-Variablewght.ttf");
+  src: url("NunitoSans-Variablewght.ttf");
   font-style: normal;
   font-weight: 600;
 }
 @font-face {
   font-family: "NunitoSans";
-  src: url("/font/NunitoSans-Variablewght.ttf");
+  src: url("NunitoSans-Variablewght.ttf");
   font-style: normal;
   font-weight: 700;
 }
 @font-face {
   font-family: "english";
-  src: url("/font/EN.woff2");
+  src: url("EN.woff2");
   font-style: normal;
   font-weight: normal;
 }

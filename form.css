@@ -1,13 +1,13 @@
 @font-face {
     font-family: 'NunitoSans';
-    src: url('/font/NunitoSans-Variablewght.ttf');
+    src: url('NunitoSans-Variablewght.ttf');
     font-style: normal;
     font-weight: normal;
 }
 
 @font-face {
     font-family: 'NunitoSans';
-    src: url('/font/NunitoSans-Variablewght.ttf');
+    src: url('NunitoSans-Variablewght.ttf');
     font-style: normal;
     font-weight: 700;
 }
